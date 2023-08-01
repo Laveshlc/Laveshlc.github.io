@@ -21,7 +21,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Laveshlc                          # the main title
+title: Lavesh Chowdhary                # the main title
 
 tagline: Cybersecurity Professional  # it will display as the sub-title
 
@@ -29,11 +29,11 @@ description: >-                        # used by seo meta and the atom feed
 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://laveshlc.github.io'
+url: 'https://Laveshlc.github.io'
 
 github:
   username: laveshlc             # change to your github username
-twitter: 
+twitter:
   username: laveshlc
 
 social:
@@ -68,10 +68,10 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://github.com/laveshlc/laveshlc.github.io/assets/'
+img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'img/Dakirby309-Windows-8-Metro-Apps-Command-Prompt-Metro.ico'
+avatar: 'https://github.com/Laveshlc/Laveshlc.github.io/assets/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
