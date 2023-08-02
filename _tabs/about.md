@@ -3,7 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# $whoami
 
 Hello, I'm Lavesh, and I'm passionate about all things cybersecurity. I currently hold several certifications in the field, all practical and hands-on focused, equipping me with the skills to tackle real-world cybersecurity challenges effectively:
 
