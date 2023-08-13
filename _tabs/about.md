@@ -23,18 +23,20 @@ Feel free to connect with me on social media or via email if you'd like to discu
 
 Thank you for visiting my page, and I hope you find my content valuable.
 
-GOALS
-Certifications/Pro Labs
-OffSec Experienced Penetration Tester (OSEP) {In-Progress}
-Maldev Academy {In-Progress}
-OffSec Web Expert (OSWE)
-OffSec Defense Analyst (OSDA)
-OffSec Wireless Professional (OSWP)
-Certified Red Team Master (CRTM)
-Certified Information Systems Auditor (CISA)
-Certified Red Team Lead (CRTL)
-Dante ProLab
-Offshore ProLab {In-Progress}
-Cybernetics ProLab
-APT Labs ProLab
+### Goals
+
+|Certifications/Pro Labs|
+|---|
+|OffSec Experienced Penetration Tester (OSEP) {In-Progress}|
+|Maldev Academy {In-Progress}|
+|OffSec Web Expert (OSWE)|
+|OffSec Defense Analyst (OSDA)|
+|OffSec Wireless Professional (OSWP)|
+|Certified Red Team Master (CRTM)|
+|Certified Information Systems Auditor (CISA)|
+|Certified Red Team Lead (CRTL)|
+|Dante ProLab|
+|Offshore ProLab {In-Progress}|
+|Cybernetics ProLab|
+|APT Labs ProLab|
 ---
